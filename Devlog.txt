@@ -1,0 +1,4 @@
+This is the developer's log for the new game made by Moronere and Xan1x. Dates are in the format YYYY/MM/DD.
+
+Developer's log, 2023/08/17:
+ We made a new Trello board (https://trello.com/b/ETi3npQv/project-e-production-board) and added the important links to it. Moronere updated the engine to UE5, and only cried a moderate amount. Xan1x set up a bunch of documentation in preperation for the run we have scheduled for the beginning of next week. Xan1x is initially planning these to be on a weekly basis.  It will be the first of (hopefully) many, so we're making sure we have the administrative foundation now so that we don't have to get bogged down setting things up later. There's still busywork to be done, but the framework is in place.
