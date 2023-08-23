@@ -5,3 +5,6 @@ Developer's log, 2023/08/17:
 
 Developer's log, 2023/08/21:
  Today we reviewed the combat system. In a design meeting, we fleshed out the proposed combat system a bit more. Anton made a head for our first character model. Tomorrow he plans to make a body. He struggled with the nose, but feels especially proud of the ears. I fixed an age-old bug with the camera, and had a small panic when I realized we lost some work with the update to UE5. The sword attack animation is gone, and the inventory prototype is missing, possibly some data structures as well. Tomorrow I will need to recreate these, as I want to create a silhouette material for the dummy (to use in animating and some skills) and before I do that, attacks and things to animate have to be done.
+ 
+Developer's log, 2023-08-22:
+ Today, Xan1x got the feet, legs, and posterior of a base character model done. He has started on the hands, and all considered, it's coming along well! :) Moronere began remaking the combat system after a good hour of grappling with the dreaded realization that many of the changes made in years past have become corrupted, and are forever gone. As the horrifying sensation passed, he came to terms with the grim reality, and set out to create a better system than the one we had before.
