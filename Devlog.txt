@@ -8,3 +8,6 @@ Developer's log, 2023/08/21:
  
 Developer's log, 2023-08-22:
  Today, Xan1x got the feet, legs, and posterior of a base character model done. He has started on the hands, and all considered, it's coming along well! :) Moronere began remaking the combat system after a good hour of grappling with the dreaded realization that many of the changes made in years past have become corrupted, and are forever gone. As the horrifying sensation passed, he came to terms with the grim reality, and set out to create a better system than the one we had before.
+ 
+Developer's log, 2023-08-23:
+ Today, Xan1x looked at more boobs than he ever had before in his life. He stared and stared, and consulted with an expert pervert (no names will be named) to get the chest of the female model just right. He completed the body, and it is more or less complete aside from the wendigo claws that we are calling feet. Moronere continued work on the inventory system, doing research and implementing different prototypes. Along the way, he discovered yet more things that were deprecated by UE5. Every single action mapping and axis must be converted to be compatible with the new system, and some deprecated functions have to be gutted and replaced entirely. This combined with the corrupted assets, and we are up to 2 hours solid of him crying in a corner. From Ue5, specifically. 
