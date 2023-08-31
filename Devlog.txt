@@ -11,3 +11,16 @@ Developer's log, 2023-08-22:
  
 Developer's log, 2023-08-23:
  Today, Xan1x looked at more boobs than he ever had before in his life. He stared and stared, and consulted with an expert pervert (no names will be named) to get the chest of the female model just right. He completed the body, and it is more or less complete aside from the wendigo claws that we are calling feet. Moronere continued work on the inventory system, doing research and implementing different prototypes. Along the way, he discovered yet more things that were deprecated by UE5. Every single action mapping and axis must be converted to be compatible with the new system, and some deprecated functions have to be gutted and replaced entirely. This combined with the corrupted assets, and we are up to 2 hours solid of him crying in a corner. From Ue5, specifically. 
+ 
+Developer's log, 2023-08-24:
+ Xan1x is unsatisfied with his progress, as normal. He tightened up some proportions for the base model after expressing displeasure with his reference. He implemented simple materials to see how they worked with the existing details, and added some new simple areas. Moronere continued converting inputs over to the new system, in between meetings and research reports. Not a terribly productive day, but those happen.
+ 
+Developer's log, 2023-08-28:
+ Moronere's illness struck in the dead of the night, and he will be ill for several days hence. Xan1x had this to say: "My plan is to get the github working with ue5, export the model into ue5 then see if my 'rigging' worked or not. Today i learned how to create a bone structure, and then apply a rig to it." I'm proud of him.
+ 
+Developer's log, 2023-08-29: 
+ Xan1x had this to say about his daily progress: "Today i set up the git hub repo for myself, imported the current version of the character blockout, and finally pushed my changes out to ensure it all works." Moronere, when asked for comment, gurgled weakly and gave a pitiful thumbs-up.
+ 
+Developer's log, 2023-08-30:
+ Moronere is in the process of creating an interactable loot component, so that they can be added to the inventory, then equipped, then used in combat. The dependency chain just keeps growing. Xan1x has been doing extensive research on how Unreal handles character rigs, and is in the process of getting Blender-made animations to work in UE5.
+ 
