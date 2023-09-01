@@ -24,3 +24,5 @@ Developer's log, 2023-08-29:
 Developer's log, 2023-08-30:
  Moronere is in the process of creating an interactable loot component, so that they can be added to the inventory, then equipped, then used in combat. The dependency chain just keeps growing. Xan1x has been doing extensive research on how Unreal handles character rigs, and is in the process of getting Blender-made animations to work in UE5.
  
+Developer's log, 2023-09-01:
+ Moronere has been binge working on the inventory. He's ready to add icons and art, and he is zealous about it. He has a fervent look in his eyes, like he's prepared to cram a video series on UI art and work for days on end. He's also declared that inventories will be tilemaps, with variable tile behaviors and all. Meanwhile, Xan1x has taken the working day off. At this point, the dev logs are probably off by a day, since I've been writing them in the AM after working all night. Xan1x actually took the 30th off, but this log is being written at approximately 9:00 AM the day after. Moronere seems to be dissociating so hard that he is losing his sense of time and space.
