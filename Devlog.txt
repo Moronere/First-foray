@@ -26,3 +26,6 @@ Developer's log, 2023-08-30:
  
 Developer's log, 2023-09-01:
  Moronere has been binge working on the inventory. He's ready to add icons and art, and he is zealous about it. He has a fervent look in his eyes, like he's prepared to cram a video series on UI art and work for days on end. He's also declared that inventories will be tilemaps, with variable tile behaviors and all. Meanwhile, Xan1x has taken the working day off. At this point, the dev logs are probably off by a day, since I've been writing them in the AM after working all night. Xan1x actually took the 30th off, but this log is being written at approximately 9:00 AM the day after. Moronere seems to be dissociating so hard that he is losing his sense of time and space.
+ 
+Developer's log, 2023-09-04:
+ Moronere toiled away tirelessly on the inventory system, pumping out UI art and structural code. He also bugtested and tightened up some inputs, but most of his day was spent on agonizing an angst. Xan1x stared at butts, and boobs, and made progress on a functioning boob-and-butt cover (armor). Moronere also learned that tilemaps will take a bit of custom scripting to work with the inventory system he has planned, so he's committed to getting it working. 
