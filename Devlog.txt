@@ -29,3 +29,18 @@ Developer's log, 2023-09-01:
  
 Developer's log, 2023-09-04:
  Moronere toiled away tirelessly on the inventory system, pumping out UI art and structural code. He also bugtested and tightened up some inputs, but most of his day was spent on agonizing an angst. Xan1x stared at butts, and boobs, and made progress on a functioning boob-and-butt cover (armor). Moronere also learned that tilemaps will take a bit of custom scripting to work with the inventory system he has planned, so he's committed to getting it working. 
+ 
+Developer's log, 2023-09-25:
+ Due to Moronere's day job picking up and Xan1x's new dog demanding his attention, there has been little to no new progress to report. Xan1x has begun work on the default model's hair, and has been workshopping new techniques. The dog is coming into his room. The dog is chewing on his shoes, oh god Xan1x down-
+ 
+Developer's log, 2023-09-29:
+ Xan1x has gotten the default model done! He is working on the clothing now, and is learning a lot. New methods, new plugins, you name it.
+ 
+Developer's log, 2023-10-06:
+ Xan1x has finished the character model! He is ready to texture, rig, and export. Rejoice!
+ 
+Developer's log, 2023-10-13
+ Xan1x has completed the blockout of the boots, and has set up the UVs for it. Needs to adjust the foot to fit into the boot, then it's rigging time!
+ 
+Developer's log, 2023-10-20:
+ Xan1x has begun rigging the model and clothing. He finished the boot, put the finishing touches on the foot model after many hours of fixation on them. It is difficult to hear what he's saying around all that drool, but I think the controller for the character is set up. Things are pretty complex due to the techniques he's chosen, and bone relations need to be fixed. 
