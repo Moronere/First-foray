@@ -44,3 +44,6 @@ Developer's log, 2023-10-13
  
 Developer's log, 2023-10-20:
  Xan1x has begun rigging the model and clothing. He finished the boot, put the finishing touches on the foot model after many hours of fixation on them. It is difficult to hear what he's saying around all that drool, but I think the controller for the character is set up. Things are pretty complex due to the techniques he's chosen, and bone relations need to be fixed. 
+
+Developer's log, 2023-10-27:
+ Xan1x has imported the character into Unreal! Moronere has gotten back to it, and we had a meeting discussing the UI and how it will look. The main menu was decided to be a hologram that the character will view at the same time as the player, with each getting a portion of the screen. Proportions are yet to be decided, will workshop it. Moronere has been tasked with designing a state of the art 2D animation of rippling water with bouncing buttons and cascade FX for button clicks. He has the complexion of a corpse, and is rocking back and forth in his chair. Xan1x will make 3D menu assets when he has the time, but finishing up the import tests is his primary focus. He described how he had accidentally given the character back-bending deer legs. When demonstrated, it became immediately clear that the character was a wendigo, capable of disclocating her legs and becoming seven feet tall.
