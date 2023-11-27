@@ -56,3 +56,6 @@ Developer's log, 2023-11-10:
  
 Developer's log, 2023-11-17:
  Xan1x finished up rigging the character for animation in UE5. He made some blueprints that allow skeletal meshes to be paired to the character. He's been struggling with clipping issues, and has decided to pivot back to making assets. He's thinking about making buildings, foliage, and the like. When talking about environment generation, a long discussion and settled on non-euclidean geometric planar activity as a groundwork for functional synergy between scape-bound environments. Moronere was indisposed much of the week, with his day job blossoming from a beautiful flame held in his heart, to a crackling tire fire spilling out onto the freeway of his soul.
+ 
+Developer's log, 2023-11-25:
+ Gobble gobble gobble
